@@ -1,5 +1,3 @@
-# a1-group12
-Assignment 1
 
 To install packages:
 
